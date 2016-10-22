@@ -1,4 +1,4 @@
-Lab4LinuxSystemProgramming
+Linux System Programming
 ==========================
 
-Implementing the ls -l command
+Implementing the ls -l command in C. 
